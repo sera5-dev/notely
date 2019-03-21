@@ -1,6 +1,6 @@
 # notely
 
-A simple, yet powerful notepad.
+A simple, yet powerful notepad written in Flutter.
 
 ## Getting Started
 
