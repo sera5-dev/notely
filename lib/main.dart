@@ -36,6 +36,11 @@ class MyStatelessWidget extends StatelessWidget {
           ),
         ],
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {},
+        tooltip: "Menambah catatan",
+        child: Icon(Icons.add),
+      ),
     );
   }
 }
